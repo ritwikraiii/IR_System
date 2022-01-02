@@ -1,0 +1,9 @@
+ --------------------------------                                                   Group no.-20                                              ---------------------------------------------
+ 
+ 1.Comparing new results with results obtained from  Inc.Itc weighting scheme.
+ ->By comparing we observed that the documents which were marked as relevant according to any one of the schemes(RF and PsRF) were showing in top of the results ie. there rank were improved from the original position of them in the results of Inc.Itc scheme.
+ 
+ 2.Comparing RF and PsRF results.
+ ->The number of relevant doc retrieved in PsRF scheme was much more than that for RF schemes.And so the MAP@20 or MAP@10 for PsRF was much more than the RF scheme.Like for some value of alpha 
+ beta and gaama the MAP@20 for PsRF was 98% on the other hand for RF it was 74%.
+ 
